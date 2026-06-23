@@ -9,7 +9,7 @@ nav {
   display: flex;
   gap: 25px;
   margin-bottom: 24px;
-  border-bottom: 1px solid blue;
+  border-bottom: 1px solid black;
   padding-bottom: 12px;
 }
 nav a {
@@ -18,6 +18,6 @@ nav a {
 }
 footer {
   margin-top: 40px;
-  border-top: 1px solid blue;
+  border-top: 1px solid black;
   padding-top: 0 20px;
 }
