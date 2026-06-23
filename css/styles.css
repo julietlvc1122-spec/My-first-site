@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 20px;
+  color: black;
+}
+nav {
+  display: flex;
+  gap: 25px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid blue;
+  padding-bottom: 12px;
+}
+nav a {
+  text-decoration: line;
+  color: pink;
+}
+footer {
+  margin-top: 40px;
+  border-top: 1px solid blue;
+  padding-top: 0 20px;
+}
