@@ -4,6 +4,7 @@ body {
   margin: 40px auto;
   padding: 0 20px;
   color: black;
+  background-color: white;
 }
 nav {
   display: flex;
@@ -14,7 +15,7 @@ nav {
 }
 nav a {
   text-decoration: line;
-  color: pink;
+  color: purple;
 }
 footer {
   margin-top: 40px;
